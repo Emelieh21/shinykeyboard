@@ -1,10 +1,10 @@
 Package: shinykeyboard
 Type: Package
-Title: What the package does (short line)
+Title: A touch screen keyboard for R shiny.
 Version: 1.0
 Date: 2018-08-22
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Emelie Hofland
+Maintainer: Emelie Hofland <emelie_hofland@hotmail.com>
+Description: A simple integration of a jQuery on-screen keyboard (OSK) for R Shiny apps.
 License: What license is it under?
 RoxygenNote: 6.0.1
