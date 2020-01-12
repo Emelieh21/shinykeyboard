@@ -66,5 +66,3 @@ sudo apt-get install libssl-dev
 ## Don't like gray, QWERTY keyboards?
 
 Feel free to contribute and improve this keyboard integration. It should be totally possible to have more options to customize the layout. I am not the biggest JS star (honestly, I don't know JS _at all_), so please, feel very welcome to improve the scripts.
-
-> testing git
