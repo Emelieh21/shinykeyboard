@@ -2,3 +2,4 @@
 
 export(activateVirtualKeyboard)
 export(generateVirtualKeyboard)
+export(updateKeyboard)

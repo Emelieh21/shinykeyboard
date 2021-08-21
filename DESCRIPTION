@@ -7,4 +7,4 @@ Author: Emelie Hofland
 Maintainer: Emelie Hofland <emelie_hofland@hotmail.com>
 Description: A simple integration of a jQuery on-screen keyboard (OSK) for R Shiny apps.
 License: What license is it under?
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.0
